@@ -1,0 +1,14 @@
+C:\Users\Sasha\source\repos\RapidApp\tradingcards\TradingCards\TradingCards\bin\Debug\TradingCards.exe.config
+C:\Users\Sasha\source\repos\RapidApp\tradingcards\TradingCards\TradingCards\bin\Debug\TradingCards.exe
+C:\Users\Sasha\source\repos\RapidApp\tradingcards\TradingCards\TradingCards\bin\Debug\TradingCards.pdb
+C:\Users\Sasha\source\repos\RapidApp\tradingcards\TradingCards\TradingCards\obj\Debug\TradingCards.csproj.AssemblyReference.cache
+C:\Users\Sasha\source\repos\RapidApp\tradingcards\TradingCards\TradingCards\obj\Debug\TradingCards.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sasha\source\repos\RapidApp\tradingcards\TradingCards\TradingCards\obj\Debug\TradingCards.Form1.resources
+C:\Users\Sasha\source\repos\RapidApp\tradingcards\TradingCards\TradingCards\obj\Debug\TradingCards.Properties.Resources.resources
+C:\Users\Sasha\source\repos\RapidApp\tradingcards\TradingCards\TradingCards\obj\Debug\TradingCards.csproj.GenerateResource.cache
+C:\Users\Sasha\source\repos\RapidApp\tradingcards\TradingCards\TradingCards\obj\Debug\TradingCards.csproj.CoreCompileInputs.cache
+C:\Users\Sasha\source\repos\RapidApp\tradingcards\TradingCards\TradingCards\obj\Debug\TradingCards.exe
+C:\Users\Sasha\source\repos\RapidApp\tradingcards\TradingCards\TradingCards\obj\Debug\TradingCards.pdb
+C:\Users\Sasha\source\repos\RapidApp\tradingcards\TradingCards\TradingCards\bin\Debug\CardData.mdf
+C:\Users\Sasha\source\repos\RapidApp\tradingcards\TradingCards\TradingCards\bin\Debug\CardData_log.ldf
+C:\Users\Sasha\source\repos\RapidApp\tradingcards\TradingCards\TradingCards\obj\Debug\TradingCards.HockeyCard.resources
